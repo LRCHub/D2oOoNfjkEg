@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Brand New Day (打打だいず Remix)（feat. 初音ミク）",
+  "base_artist": "irucaice",
+  "createdAt": "2026-02-28T06:32:59.114379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Della Reese",
+      "has_synced": false,
+      "path": "select/01_Brand_New_Day_Della_Reese.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Dizzee Rascal",
+      "has_synced": true,
+      "path": "select/02_Brand_New_Day_Dizzee_Rascal.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "上原ひろみ",
+      "has_synced": false,
+      "path": "select/03_Brand_New_Day_上原ひろみ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Hiromi (The Trio Project)",
+      "has_synced": false,
+      "path": "select/04_Brand_New_Day_Hiromi_(The_Trio_Project).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Neil Patrick Harris",
+      "has_synced": true,
+      "path": "select/05_Brand_New_Day_Neil_Patrick_Harris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Eurythmics",
+      "has_synced": false,
+      "path": "select/06_Brand_New_Day_Eurythmics.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/07_Brand_New_Day_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/08_Brand_New_Day_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/09_Brand_New_Day_Sting.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Alphabeat",
+      "has_synced": true,
+      "path": "select/10_Brand_New_Day_Alphabeat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/11_Brand_New_Day_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "10cc",
+      "has_synced": false,
+      "path": "select/12_Brand_New_Day_10cc.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Hiromi Uehara",
+      "has_synced": false,
+      "path": "select/13_Brand_New_Day_Hiromi_Uehara.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Brand New Day (Vinai Remix)",
+      "artist": "Redfoo",
+      "has_synced": true,
+      "path": "select/14_Brand_New_Day_(Vinai_Remix)_Redfoo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brand New Day (Remastered Version)",
+      "artist": "Eurythmics",
+      "has_synced": false,
+      "path": "select/15_Brand_New_Day_(Remastered_Version)_Eurythmics.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Brand New Day (Album Version)",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/16_Brand_New_Day_(Album_Version)_Sting.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Brand New Day (BTS World Original Soundtrack) [Pt. 2]",
+      "artist": "BTS feat. Zara Larsson",
+      "has_synced": true,
+      "path": "select/17_A_Brand_New_Day_(BTS_World_Original_Soundtrack)_[Pt._2]_BTS_feat._Zara_Larsson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brand New Day",
+      "artist": "irucaice",
+      "has_synced": false,
+      "path": "select/pl_01_Brand_New_Day_irucaice.txt"
+    }
+  ]
+}
